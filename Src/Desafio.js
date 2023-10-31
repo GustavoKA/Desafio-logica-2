@@ -30,4 +30,4 @@ if (saldoRanked<=10){
     ranked="IMORTAL"
 }
    
-console.log ("Heroi tem um saldo de " + saldoRanked+ "está no nivel de "+ ranked )
+console.log ("Heroi tem um saldo de " + saldoRanked+ " está no nivel de "+ ranked )
